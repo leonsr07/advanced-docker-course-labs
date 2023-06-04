@@ -1,0 +1,10 @@
+Nombre y apellidos:
+
+Pregunta 1: Que es Docker.
+Pregunta 2: Que es Orquestracion?
+Pregunta 3: Describa las ventajas de la orquestracion y mencione como la usaria.
+Pregunta 4: Como solucionaria usted el hecho de tener 2 applicaciones trabajando en un sistema monolitico, con similar codigo base y servidas por nginx, la aplicacion, le esta costando dinero y esfuerzo mantener, tambien la escalabilidad.
+Pregunta 5: Podria escribir un Dockerfile simple que tenga como base ubuntu 2204 y python3.9 en ella ademas de exponer el puerto 2204.
+
+Las preguntas tienen valor de 10 puntos: cada pregunta vale 2 puntos, si la respuesta es parcialmente correcta gana 1 punto. Approvado es 7.
+Sea lo mas sincero possible no use buscadores es solo un diagnostico.

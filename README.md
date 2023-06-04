@@ -1,1 +1,0 @@
-# advanced-docker-course-labs
